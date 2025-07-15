@@ -1,44 +1,111 @@
-# Unity3D-Simple-Game
 
-Welcome to Unity3D-Simple-Game! This repository contains a simple game developed using Unity3D. The purpose of this project is to provide a basic example of a game built with Unity and serve as a starting point for beginners.
+# 🎮 CubeRunner-3D
 
-## Setup
+Welcome to **CubeRunner-3D** – a beginner-friendly 3D game built using **Unity3D**. This project demonstrates basic player movement, jumping, and object interaction using Unity’s physics engine. It's designed as a simple starting point for those learning Unity game development.
 
-To set up the project, follow the steps below:
+---
 
-1. Clone this repository to your local machine or download the ZIP file.
-2. Open Unity3D.
-3. Click on "Open" and navigate to the location where you cloned or downloaded the repository.
-4. Select the root folder of the project and click "Open".
-5. Unity will import the project and set it up for you.
+## 🛠️ Setup Instructions
 
-## Screenshots
+To run the project locally:
 
-Here are some screenshots of the game:
+1. **Clone or Download the Project**
+   ```bash
+   git clone https://github.com/Prathamshettyy/CubeRunner-3D.git
+
+
+2. **Open the Project in Unity**
+
+   * Launch Unity Hub.
+   * Click on `Open`, then navigate to the cloned project folder.
+   * Select the folder and wait for Unity to import the assets.
+
+3. **Open the Main Scene**
+
+   * Go to the `Scenes` folder inside `Assets`.
+   * Open the `MainScene.unity`.
+
+4. **Play**
+
+   * Hit the ▶️ **Play** button in the Unity Editor to start the game.
+
+---
+
+## 🕹️ Controls
+
+| Input         | Action                |
+| ------------- | --------------------- |
+| `←` or `A`    | Move Left             |
+| `→` or `D`    | Move Right            |
+| `Spacebar`    | Jump                  |
+| `Mouse Click` | Interact with Objects |
+
+---
+
+## 🎮 How to Play (Built Version)
+
+If you are running the game outside the Unity Editor:
+
+1. Navigate to the `BuildGame` folder.
+2. Locate the executable:
+
+   * Windows: `Simple Game.exe`
+3. Double-click to launch and play.
+
+---
+
+## 📸 Screenshots
+
+Here are a few in-game screenshots:
 
 ![Screenshot 1](images/Screenshot1.png)
 ![Screenshot 2](images/Screenshot2.png)
 ![Screenshot 3](images/Screenshot3.png)
 
-## How to Play
+> Make sure these image files are present in the `images/` directory in your repo.
 
-Once the project is set up, you can play the game by following these steps:
+---
 
-1. Navigate to the "BuildGame" folder in the project.
-2. Locate the executable file named "Simple Game" (or "Simple Game.exe" on Windows).
-3. Double-click on the file to launch the game.
+## 📚 What You’ll Learn
 
-## Controls
+* Unity basics: scenes, objects, and components
+* Rigidbody and collider physics
+* Basic input handling (`Input.GetKey`)
+* Organizing a Unity project for clarity
 
-Use the following controls to play the game:
+---
 
-- **Arrow Keys**: Move the character.
-- **Spacebar**: Jump.
-- **Mouse Click**: Interact with objects.
+## 🧑‍💻 Author
+
+**Pratham Shetty**
+🔗 [GitHub](https://github.com/Prathamshettyy)
+
+---
+
+## 🙌 Acknowledgments
+
+Special thanks to the Unity Learn platform and community for beginner-friendly tutorials and support resources.
+
+---
+
+## 📜 License
+
+This project is open-sourced under the [MIT License](LICENSE).
+
+---
+
+## ✅ Future Ideas
+
+Want to extend the game? Try adding:
+
+* Score tracking system
+* Moving platforms
+* Jump animations
+* Sounds and background music
+* Power-ups or difficulty levels
 
 
-## Acknowledgments
 
-Special thanks to the Unity community for providing valuable resources and tutorials that helped in the development of this simple game.
 
-Enjoy playing Unity3D-Simple-Game! If you have any questions or feedback, please don't hesitate to reach out.
+
+
