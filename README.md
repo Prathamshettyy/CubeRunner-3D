@@ -77,7 +77,7 @@ Here are a few in-game screenshots:
 
 ## 🧑‍💻 Author
 
-**Pratham Shetty**
+**Pratham R Shetty**
 🔗 [GitHub](https://github.com/Prathamshettyy)
 
 ---
